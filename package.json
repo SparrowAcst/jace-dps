@@ -6,8 +6,6 @@
   "scripts": {
     "test": "jest",
     "start": "node server",
-    "jace-doc": "node ./build/jace-doc/index.js",
-    "postinstall": "npm run jace-doc",
     "dev": "nodemon server"
   },
   "author": "",
